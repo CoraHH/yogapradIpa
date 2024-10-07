@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Yogapradīpa</title>
+            
+         <editor><persName>Corinna Lhoir</persName><orgName>University of Hamburg and Ghent University</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Yogapradīpaprārambhaḥ Project</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Endangered Archives Project, British Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">EAP729/1/2/660</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://eap.bl.uk/archive-file/EAP729-1-2-660</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>This manuscript is preserved at the Chinmaya International Foundation (CIF) and was digitized by the Endangered Archives Project May 2015.</summary>
+                  
+               <msItem xml:id="BL1" defective="false"><title xml:lang="sa">Yogapradīpa</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="paper handmade">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="11"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              <width quantity="245"/>
+                              <height quantity="175"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><foliation>Devanagari numerals on the verso</foliation><condition>frayed edges, apart from this in good condition</condition></supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="11"/>
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="devanagari" medium="ink black"/></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://eap.bl.uk/archive-file/EAP729-1-2-660/manifest"/></facsimile>
+<text corresp="#BL1" xml:lang="sa"><body>
+  <p>
+    <pb n="1r" facs="2"/>
+    <lb n="1"/>
+    atha yogapradīpaprārambhaḥ <space/></p>
+  <lg>
+	<l>yāvan na grasyate rogair yāvan nābhyeti  <lb n="2"/>te jarā <space/></l>
+	<l>yāvan na kṣīyate vāyus tāvat kalyāṇam ācara 1</l>
+   </lg>
+</body></text></TEI>
