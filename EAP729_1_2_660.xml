@@ -87,11 +87,18 @@
    <graphic url="https://eap.bl.uk/archive-file/EAP729-1-2-660/manifest"/></facsimile>
 <text corresp="#BL1" xml:lang="sa"><body>
   <p>
-    <pb n="1r" facs="2"/>
+    <pb n="1v" facs="2"/>
     <lb n="1"/>
-    atha yogapradīpaprārambhaḥ <space/></p>
+    atha yogapradīpaprāraṃbhaḥ <space/>
+  </p>
   <lg>
 	<l>yāvan na grasyate rogair yāvan nābhyeti  <lb n="2"/>te jarā <space/></l>
-	<l>yāvan na kṣīyate vāyus tāvat kalyāṇam ācara 1</l>
+	<l>yāvan na kṣīyate cāyus tāvat kalyāṇam ācara 1</l>
    </lg>
+  <lg>
+    <l> kuto <g ref="#danda_with_slash"/> <lb n="3"/>
+      smi kva gamiṣyāmi kutrāyāto smi sāṃprataṃ <space/>
+    </l> 
+    <l>ko baṃdhu marma kasyāha<lb n="4"/>m ity ātmānaṃ viciṃtayet 2  </l>
+  </lg>
 </body></text></TEI>
