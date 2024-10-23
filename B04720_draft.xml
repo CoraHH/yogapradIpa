@@ -1,0 +1,88 @@
+<?tst sanitized="true"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BLII_MSSयोगप्रदीप बालावबोध B04720</title>
+            
+         <editor><persName>Corinna May Lhoir</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>tba</publisher>
+            <date>2024</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>own</orgName>
+                  </repository>
+                  <idno type="shelfmark">B04720</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  
+                  
+               <msItem defective="false"><title>Yogapradīpa</title><textLang mainLang="san"/><filiation><p>Commentary in Apabhraṃsa</p></filiation></msItem></msContents>
+               <physDesc>
+                  <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="paper">
+                        <support>
+                           
+                        </support>
+                        <extent>
+                           <measure unit="folio" quantity="25"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent>
+                        
+                        <collation><desc/></collation>
+                        <condition>Jaina Nāgarī, good state of preservation</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="9" style="inline-commentary">, estimated to be from the 16th century. Contains a vernacular translation into Old Gujarati (bālāvabodha)</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><handNote script="devanagari" scriptRef="#prsthamatra" medium="ink black red"><desc>Jaina Nāgarī, written with expressive care</desc></handNote></handDesc>
+                  <decoDesc/>
+                  <additions>
+                  </additions>
+                  <bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc>
+               <typeDesc><typeNote/></typeDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="gregorian"/>
+                     <origPlace>Delhi, India</origPlace>
+                  </origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p/></encodingDesc>
+      <revisionDesc/>
+   </teiHeader>
+   <facsimile>
+   </facsimile>
+</TEI>
