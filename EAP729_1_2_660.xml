@@ -1,4 +1,4 @@
-<?tst sanitized="true"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -21,7 +21,7 @@
                <msContents class="#STM">
                   <summary>This manuscript is preserved at the Chinmaya International Foundation (CIF) and was digitized by the Endangered Archives Project May 2015.</summary>
                   
-               <msItem xml:id="BL1" defective="false"><title>Yogapradīpa</title><textLang mainLang="san"/></msItem></msContents>
+               <msItem xml:id="BL1" defective="false"><title xml:lang="sa">Yogapradīpa</title><textLang mainLang="san"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -51,7 +51,7 @@
                               
                               
                            </dimensions>
-                        </extent><condition>frayed edges, apart from this in good condition</condition><foliation>Devanagari numerals on the verso</foliation></supportDesc>
+                        </extent><foliation>Devanagari numerals on the verso</foliation><condition>frayed edges, apart from this in good condition</condition></supportDesc>
                      <layoutDesc>
                         <layout writtenLines="11"/>
                      </layoutDesc>
@@ -85,32 +85,32 @@
    <revisionDesc/></teiHeader>
    <facsimile>
    <graphic url="https://eap.bl.uk/archive-file/EAP729-1-2-660/manifest"/></facsimile>
-<text corresp="#BL1">&lt;body&gt;
-  &lt;p&gt;
-    &lt;pb n="1v" facs="2"/&gt;
-    &lt;lb n="1"/&gt;
-    atha yogapradīpaprāraṃbhaḥ &lt;space/&gt;
-  &lt;/p&gt;
-  &lt;lg&gt;
-	&lt;l&gt;yāvan na grasyate rogair yāvan nābhyeti  &lt;lb n="2"/&gt;te jarā &lt;space/&gt;&lt;/l&gt;
-	&lt;l&gt;yāvan na kṣīyate cāyus tāvat kalyāṇam ācara 1&lt;/l&gt;
-   &lt;/lg&gt;
-  &lt;lg&gt;
-    &lt;l&gt; kuto &lt;g ref="#danda_with_slash"/&gt; &lt;lb n="3"/&gt;
-      smi kva gamiṣyāmi kutrāyāto smi sāṃprataṃ &lt;space/&gt;
-    &lt;/l&gt; 
-    &lt;l&gt;ko baṃdhu marma kasyāha&lt;lb n="4"/&gt;m ity ātmānaṃ viciṃtayet 2  &lt;/l&gt; &lt;/lg&gt;
-  &lt;lg&gt;&lt;l&gt;puraṣās tīrtham ichaṃti kiṃ tirthaiḥ  kle&lt;lb n="5"/&gt;śākāranaiḥ &lt;space/&gt;&lt;/l&gt;&lt;l&gt; dharmatīrthaṃ śarīrasthaṃ sarvatīrthādhikaṃ mataṃ 3&lt;/l&gt;&lt;/lg&gt;
-  &lt;lg&gt;
-    &lt;l&gt;idaṃ&lt;lb n="6"/&gt; tīrtham idaṃ tīrtham iti jñātvā bhramaṃte ye &lt;space/&gt;&lt;/l&gt; &lt;l&gt;jñānadhyānavihīnas te sa&lt;lb n="7"/&gt;ti tīrthaṃ svam eva hi 4  &lt;/l&gt;&lt;/lg&gt;
-  &lt;lg&gt;&lt;l&gt;ājanmopārjitaṃ sarvaṃ bhakṣayet kāyasaṃsthi&lt;lb n="8"/&gt;taḥ &lt;space/&gt;&lt;/l&gt;
-    &lt;l&gt;kenāpi dṛśyate naiva svātmāyaṃ paśyato haraḥ 5 &lt;/l&gt; &lt;/lg&gt;
-    &lt;lg&gt;&lt;l&gt;lokair vilokya&lt;lb n="9"/&gt;te cauro gate svalpe pi vastuni &lt;space/&gt;&lt;/l&gt;
-      &lt;l&gt;sarvasvaharam ātmānaṃ manāk paśyaṃti &lt;lb n="10"/&gt;no jaḍāḥ 6 &lt;/l&gt;&lt;/lg&gt;
-  &lt;lg&gt;
-    &lt;l&gt;taśyāmāpi kadā yena kāya durga samāśritaḥ &lt;space/&gt;&lt;/l&gt;
-    &lt;l&gt;ajñā&lt;lb n="11"/&gt;nachāditaḥ svātmā nirīkṣyo yogibhiḥ sadā 7 &lt;/l&gt; 
-    &lt;/lg&gt; 
-  &lt;lg&gt;&lt;l&gt;ātmaiva suprasa &lt;g ref="#danda_with_slash"/&gt;  &lt;/l&gt; &lt;/lg&gt; 
-  &lt;pb n="2r" facs="3"/&gt;
-&lt;/body&gt;</text></TEI>
+<text corresp="#BL1" xml:lang="sa"><body>
+  <p>
+    <pb n="1v" facs="2"/>
+    <lb n="1"/>
+    atha yogapradīpaprāraṃbhaḥ <space/>
+  </p>
+  <lg>
+	<l>yāvan na grasyate rogair yāvan nābhyeti  <lb n="2"/>te jarā <space/></l>
+	<l>yāvan na kṣīyate cāyus tāvat kalyāṇam ācara 1</l>
+   </lg>
+  <lg>
+    <l> kuto <g ref="#danda_with_slash"/> <lb n="3"/>
+      smi kva gamiṣyāmi kutrāyāto smi sāṃprataṃ <space/>
+    </l> 
+    <l>ko baṃdhu marma kasyāha<lb n="4"/>m ity ātmānaṃ viciṃtayet 2  </l> </lg>
+  <lg><l>puraṣās tīrtham ichaṃti kiṃ tirthaiḥ  kle<lb n="5"/>śākāranaiḥ <space/></l><l> dharmatīrthaṃ śarīrasthaṃ sarvatīrthādhikaṃ mataṃ 3</l></lg>
+  <lg>
+    <l>idaṃ<lb n="6"/> tīrtham idaṃ tīrtham iti jñātvā bhramaṃte ye <space/></l> <l>jñānadhyānavihīnas te sa<lb n="7"/>ti tīrthaṃ svam eva hi 4  </l></lg>
+  <lg><l>ājanmopārjitaṃ sarvaṃ bhakṣayet kāyasaṃsthi<lb n="8"/>taḥ <space/></l>
+    <l>kenāpi dṛśyate naiva svātmāyaṃ paśyato haraḥ 5 </l> </lg>
+    <lg><l>lokair vilokya<lb n="9"/>te cauro gate svalpe pi vastuni <space/></l>
+      <l>sarvasvaharam ātmānaṃ manāk paśyaṃti <lb n="10"/>no jaḍāḥ 6 </l></lg>
+  <lg>
+    <l>taśyāmāpi kadā yena kāya durga samāśritaḥ <space/></l>
+    <l>ajñā<lb n="11"/>nachāditaḥ svātmā nirīkṣyo yogibhiḥ sadā 7 </l> 
+    </lg> 
+  <lg><l>ātmaiva suprasa <g ref="#danda_with_slash"/>  </l> </lg> 
+  <pb n="2r" facs="3"/>
+</body></text></TEI>
